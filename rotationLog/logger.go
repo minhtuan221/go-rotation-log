@@ -185,12 +185,12 @@ func (logger *Logger) Fatal(output ...interface{}) {
 }
 
 // CreateLogger => Create a logger from a original file. This method will return logger object and accepted input as file name
-func CreateLogger(filename string) Logger {
+func CreateLogger(filename string) *Logger {
 	// logFile, err := os.Create("app.log")
 	// if err != nil {
 	// 	panic(err)
 	// }
 	rotateWriter := NewRotateWriter(filename, "2006-01-02 15:04:05.000000 ")
 	var logger = log.New(rotateWriter, "", log.Lshortfile)
-	return Logger{logger, rotateWriter}
+	return &Logger{logger, rotateWriter}
 }

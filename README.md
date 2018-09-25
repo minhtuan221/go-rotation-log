@@ -16,7 +16,7 @@ import (
 	"sync"
 	"time"
 
-	py "../rotationLog"
+	py "github.com/minhtuan221/Go-rotation-log/rotationLog"
 )
 
 var wg sync.WaitGroup

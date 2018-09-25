@@ -1,23 +1,42 @@
-2018-09-24 17:49:00.098572 logger.go:156: [INFO] 76 This is automatic logging every 10 second for testing
-2018-09-24 17:49:01.098845 logger.go:156: [INFO] 77 This is automatic logging every 10 second for testing
-2018-09-24 17:49:02.099053 logger.go:156: [INFO] 78 This is automatic logging every 10 second for testing
-2018-09-24 17:49:03.100140 logger.go:156: [INFO] 79 This is automatic logging every 10 second for testing
-2018-09-24 17:49:04.100196 logger.go:156: [INFO] 80 This is automatic logging every 10 second for testing
-2018-09-24 17:49:05.102002 logger.go:156: [INFO] 81 This is automatic logging every 10 second for testing
-2018-09-24 17:49:06.102548 logger.go:156: [INFO] 82 This is automatic logging every 10 second for testing
-2018-09-24 17:49:07.103765 logger.go:156: [INFO] 83 This is automatic logging every 10 second for testing
-2018-09-24 17:49:08.105029 logger.go:156: [INFO] 84 This is automatic logging every 10 second for testing
-2018-09-24 17:49:09.105924 logger.go:156: [INFO] 85 This is automatic logging every 10 second for testing
-2018-09-24 17:49:10.107182 logger.go:156: [INFO] 86 This is automatic logging every 10 second for testing
-2018-09-24 17:49:11.108354 logger.go:156: [INFO] 87 This is automatic logging every 10 second for testing
-2018-09-24 17:49:12.108732 logger.go:156: [INFO] 88 This is automatic logging every 10 second for testing
-2018-09-24 17:49:13.110775 logger.go:156: [INFO] 89 This is automatic logging every 10 second for testing
-2018-09-24 17:49:14.113838 logger.go:156: [INFO] 90 This is automatic logging every 10 second for testing
-2018-09-24 17:49:15.117659 logger.go:156: [INFO] 91 This is automatic logging every 10 second for testing
-2018-09-24 17:49:16.117984 logger.go:156: [INFO] 92 This is automatic logging every 10 second for testing
-2018-09-24 17:49:17.118841 logger.go:156: [INFO] 93 This is automatic logging every 10 second for testing
-2018-09-24 17:49:18.118983 logger.go:156: [INFO] 94 This is automatic logging every 10 second for testing
-2018-09-24 17:49:19.119709 logger.go:156: [INFO] 95 This is automatic logging every 10 second for testing
-2018-09-24 17:49:20.120992 logger.go:156: [INFO] 96 This is automatic logging every 10 second for testing
-2018-09-24 17:49:21.121024 logger.go:156: [INFO] 97 This is automatic logging every 10 second for testing
-2018-09-24 17:49:22.121626 logger.go:156: [INFO] 98 This is automatic logging every 10 second for testing
+2018-09-25 11:03:00.604300 logger.go:156: [INFO] 83 This is automatic logging every second for testing
+2018-09-25 11:03:01.604631 logger.go:156: [INFO] 84 This is automatic logging every second for testing
+2018-09-25 11:03:02.605837 logger.go:156: [INFO] 85 This is automatic logging every second for testing
+2018-09-25 11:03:03.605941 logger.go:156: [INFO] 86 This is automatic logging every second for testing
+2018-09-25 11:03:04.607233 logger.go:156: [INFO] 87 This is automatic logging every second for testing
+2018-09-25 11:03:05.607612 logger.go:156: [INFO] 88 This is automatic logging every second for testing
+2018-09-25 11:03:06.607761 logger.go:156: [INFO] 89 This is automatic logging every second for testing
+2018-09-25 11:03:07.609065 logger.go:156: [INFO] 90 This is automatic logging every second for testing
+2018-09-25 11:03:08.609326 logger.go:156: [INFO] 91 This is automatic logging every second for testing
+2018-09-25 11:03:09.610401 logger.go:156: [INFO] 92 This is automatic logging every second for testing
+2018-09-25 11:03:10.611532 logger.go:156: [INFO] 93 This is automatic logging every second for testing
+2018-09-25 11:03:11.612805 logger.go:156: [INFO] 94 This is automatic logging every second for testing
+2018-09-25 11:03:12.614035 logger.go:156: [INFO] 95 This is automatic logging every second for testing
+2018-09-25 11:03:13.615292 logger.go:156: [INFO] 96 This is automatic logging every second for testing
+2018-09-25 11:03:14.616505 logger.go:156: [INFO] 97 This is automatic logging every second for testing
+2018-09-25 11:03:15.617484 logger.go:156: [INFO] 98 This is automatic logging every second for testing
+2018-09-25 11:03:16.618764 logger.go:156: [INFO] 99 This is automatic logging every second for testing
+2018-09-25 11:03:17.619148 logger.go:156: [INFO] 100 This is automatic logging every second for testing
+2018-09-25 11:03:18.620129 logger.go:156: [INFO] 101 This is automatic logging every second for testing
+2018-09-25 11:03:19.620924 logger.go:156: [INFO] 102 This is automatic logging every second for testing
+2018-09-25 11:03:20.622102 logger.go:156: [INFO] 103 This is automatic logging every second for testing
+2018-09-25 11:03:21.622350 logger.go:156: [INFO] 104 This is automatic logging every second for testing
+2018-09-25 11:03:22.623049 logger.go:156: [INFO] 105 This is automatic logging every second for testing
+2018-09-25 11:03:23.623941 logger.go:156: [INFO] 106 This is automatic logging every second for testing
+2018-09-25 11:03:24.626716 logger.go:156: [INFO] 107 This is automatic logging every second for testing
+2018-09-25 11:03:25.628803 logger.go:156: [INFO] 108 This is automatic logging every second for testing
+2018-09-25 11:03:26.629907 logger.go:156: [INFO] 109 This is automatic logging every second for testing
+2018-09-25 11:03:27.632256 logger.go:156: [INFO] 110 This is automatic logging every second for testing
+2018-09-25 11:03:28.633298 logger.go:156: [INFO] 111 This is automatic logging every second for testing
+2018-09-25 11:03:29.634528 logger.go:156: [INFO] 112 This is automatic logging every second for testing
+2018-09-25 11:03:30.634764 logger.go:156: [INFO] 113 This is automatic logging every second for testing
+2018-09-25 11:03:31.635008 logger.go:156: [INFO] 114 This is automatic logging every second for testing
+2018-09-25 11:03:32.635455 logger.go:156: [INFO] 115 This is automatic logging every second for testing
+2018-09-25 11:03:33.635729 logger.go:156: [INFO] 116 This is automatic logging every second for testing
+2018-09-25 11:03:34.636598 logger.go:156: [INFO] 117 This is automatic logging every second for testing
+2018-09-25 11:03:35.636718 logger.go:156: [INFO] 118 This is automatic logging every second for testing
+2018-09-25 11:03:36.637785 logger.go:156: [INFO] 119 This is automatic logging every second for testing
+2018-09-25 11:03:37.638839 logger.go:156: [INFO] 120 This is automatic logging every second for testing
+2018-09-25 11:03:38.639066 logger.go:156: [INFO] 121 This is automatic logging every second for testing
+2018-09-25 11:03:39.640223 logger.go:156: [INFO] 122 This is automatic logging every second for testing
+2018-09-25 11:03:40.641482 logger.go:156: [INFO] 123 This is automatic logging every second for testing
+2018-09-25 11:03:41.642682 logger.go:156: [INFO] 124 This is automatic logging every second for testing

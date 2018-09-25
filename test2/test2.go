@@ -29,7 +29,7 @@ func main() {
 	for index := 0; index < 10000; index++ {
 		time.Sleep(1 * time.Second)
 		go func() {
-			logger.Info(index, "This is automatic logging every 10 second for testing")
+			logger.Info(index, "This is automatic logging every second for testing")
 		}()
 	}
 	fmt.Println("Waiting for all threads to finish")
