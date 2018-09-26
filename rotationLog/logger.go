@@ -150,6 +150,21 @@ func (logger *Logger) TimedRotating(when string) {
 	logger.Writer.TimedRotatingFileHandler(when, 1)
 }
 
+// RotateEveryDay => rotate log file every day
+func (logger *Logger) RotateEveryDay() {
+	logger.Writer.TimedRotatingFileHandler("d", 1)
+}
+
+// RotateEveryHour => rotate log file every hour
+func (logger *Logger) RotateEveryHour() {
+	logger.Writer.TimedRotatingFileHandler("h", 1)
+}
+
+// RotateEveryMinute => rotate log file every minute
+func (logger *Logger) RotateEveryMinute() {
+	logger.Writer.TimedRotatingFileHandler("m", 1)
+}
+
 // Info => write to file an info log as [INFO] ...
 func (logger *Logger) Info(output ...interface{}) {
 	logger.Writer.doRollover()

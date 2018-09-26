@@ -31,11 +31,15 @@ func main() {
 	// fmt.Println(url)
 	py.CreateDirIfNotExist("./logs/rotatation")
 	logger := py.CreateLogger("logs/rotatation/app.log")
-	logger.TimedRotating("m")
+	logger.TimedRotating("m") // rotate file every minutes
+	// you can use
+	// logger.RotateEveryDay()
+	// or logger.RotateEveryHour()
+	// or logger.RotateEveryMinute()
 	logger.Info("this is logger")
-	logger.Writer.Rotate()
+	logger.Writer.Rotate() // manually rotate file
 	logger.Info("this is second logger in new file")
-	logger.Writer.Rotate("2018-08-31")
+	logger.Writer.Rotate("2018-08-31") // rotate file with specified ext name
 	logger.Info("this is third logger in new file")
 	for index := 0; index < 10000; index++ {
 		time.Sleep(1 * time.Second)
